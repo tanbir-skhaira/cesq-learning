@@ -1,6 +1,6 @@
 # CESQ Learning
 
-Public learning repository for quantum-HPC integration work at the European Center for Quantum Sciences (CESQ), University of Strasbourg.
+Public learning repository for quantum-HPC integration work.
 
 ## Structure
 
@@ -9,4 +9,4 @@ Public learning repository for quantum-HPC integration work at the European Cent
 
 ## Context
 
-Part of the MaQuEst project — Maison du Quantique Grand Est. Working on integration between the aQCess neutral-atom quantum platform and regional HPC infrastructure (ROMEO, GENCI).
+Part of the MaQuEst project — Maison du Quantique Grand Est. Working on integration between the quantum platform and regional HPC infrastructure.
